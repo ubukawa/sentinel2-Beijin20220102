@@ -4,5 +4,5 @@
 "layers":[
 {"id": "sentinel2","type":"raster","source":"r"}
 ],
-"center":{"lng":116.3451217,16"lat":40.0132106}
+"center":{"lng":116.3451217,"lat":40.0132106}
 }
